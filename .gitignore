@@ -1,0 +1,10 @@
+.stack-work/
+*~
+stack.yaml.lock
+dist*
+*.hi
+*.o
+cabal-dev/
+.stack-work/
+.stack-work-devel/
+
